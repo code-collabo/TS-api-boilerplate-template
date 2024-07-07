@@ -1,3 +1,8 @@
+
+> We no longer develop projects in this GitHub organisation. Head over to our new GitHub organisation to find projects to contribute to: https://github.com/collabo-community
+
+#
+
 # @code-collabo/node-mongo-api-boilerplate-templates
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
